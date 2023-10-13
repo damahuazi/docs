@@ -18,7 +18,6 @@
       "to": "#9563FF"
     }
   },
-  /*
   "topbarLinks": [
     {
       "name": "Support",
@@ -29,7 +28,6 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
-  */
   "tabs": [
     {
       "name": "API Reference",
